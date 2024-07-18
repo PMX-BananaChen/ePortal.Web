@@ -1,0 +1,66 @@
+2015/1/28 上午 12:12:05::2015-01-28 00:12:05:Application End!
+
+2015/1/28 上午 12:58:37::2015-01-28 00:58:37:Application Start!
+
+2015/1/28 上午 02:59:37::2015-01-28 02:59:37:Application End!
+
+2015/1/28 上午 03:01:07::2015-01-28 03:01:07:Application Start!
+
+2015/1/28 上午 05:01:08::2015-01-28 05:01:08:Application End!
+
+2015/1/28 上午 09:52:48::2015-01-28 09:52:48:Application Start!
+
+2015/1/28 上午 10:11:55::2015-01-28 10:11:55:Application End!
+
+2015/1/28 上午 10:21:27::2015-01-28 10:21:27:Application Start!
+
+2015/1/28 上午 11:25:01::2015-01-28 11:25:01:Application End!
+
+2015/1/28 上午 11:25:37::2015-01-28 11:25:37:Application Start!
+
+2015/1/28 上午 11:31:59::2015-01-28 11:31:59:Application End!
+
+2015/1/28 上午 11:32:32::2015-01-28 11:32:32:Application Start!
+
+2015/1/28 上午 11:40:46==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/1/28 上午 11:47:20==> Errors Description:由於另一個處理序正在使用檔案 'E:\attrec\Test-ePortal\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 E:\attrec\Test-ePortal\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 692
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 E:\attrec\Test-ePortal\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 684
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/1/28 下午 02:02:49::2015-01-28 14:02:49:Application End!
+
+2015/1/28 下午 02:04:20::2015-01-28 14:04:20:Application Start!
+
+2015/1/28 下午 06:29:19::2015-01-28 18:29:19:Application End!
+
+2015/1/28 下午 06:30:50::2015-01-28 18:30:50:Application Start!
+
+2015/1/28 下午 08:30:50::2015-01-28 20:30:50:Application End!
+
+2015/1/28 下午 08:32:21::2015-01-28 20:32:21:Application Start!
+
+2015/1/28 下午 10:32:22::2015-01-28 22:32:22:Application End!
+
+2015/1/28 下午 11:32:59::2015-01-28 23:32:59:Application Start!
+

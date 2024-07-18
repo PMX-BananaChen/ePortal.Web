@@ -1,0 +1,284 @@
+<style> td { mso-number-format:\@; } </style>
+<span><div class="ui-widget users-contain" style="width: 960px; display: inline-block;" id="sord">
+    <table class="ui-widget ui-widget-content" style="border:1; ">
+        <thead>
+            <tr class="ui-widget-header ">
+                <th>
+                    工號
+                </th>
+                <th>
+                    姓名
+                </th>
+                <th>
+                    職等
+                </th>
+                <th>
+                    人員類別
+                </th>
+                <th>
+                    排班時間
+                </th>
+                <th>
+                    狀態
+                </th>
+                <th>
+                    刷卡記錄
+                </th>
+                <th>
+                    卡鍾類型
+                </th>
+                <th>
+                    刷卡類型
+                </th>
+                <th>
+                    異常說明
+                </th>
+            </tr>
+        </thead>
+        <tbody   >
+                <tr class="red">
+                    <td>
+                        50253
+                    </td>
+                    <td>
+                        丁紅梅
+                    </td>
+                    <td>
+                        P1-1
+                    </td>
+                    <td>
+
+                        間接人員
+                    </td>
+                    <td>
+
+                        2012-10-07  08:00
+                    </td>
+                    <td>
+
+                        異常
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                    <td>
+
+                        考勤
+                    </td>
+                    <td>
+
+                        上班考勤
+                    </td>
+                    <td>
+
+                        未刷上班卡
+                    </td>
+                   
+                </tr>
+                <tr class="red">
+                    <td>
+                        50253
+                    </td>
+                    <td>
+                        丁紅梅
+                    </td>
+                    <td>
+                        P1-1
+                    </td>
+                    <td>
+
+                        間接人員
+                    </td>
+                    <td>
+
+                        2012-10-07 
+                    </td>
+                    <td>
+
+                        異常
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                    <td>
+
+                        門禁
+                    </td>
+                    <td>
+
+                        上班門禁
+                    </td>
+                    <td>
+
+                        未刷上班門禁卡
+                    </td>
+                   
+                </tr>
+                <tr class="red">
+                    <td>
+                        50253
+                    </td>
+                    <td>
+                        丁紅梅
+                    </td>
+                    <td>
+                        P1-1
+                    </td>
+                    <td>
+
+                        間接人員
+                    </td>
+                    <td>
+
+                        2012-10-07 
+                    </td>
+                    <td>
+
+                        異常
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                    <td>
+
+                        廠區大門門禁
+                    </td>
+                    <td>
+
+                        未刷上班廠區大門門禁
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                   
+                </tr>
+                <tr class="red">
+                    <td>
+                        50253
+                    </td>
+                    <td>
+                        丁紅梅
+                    </td>
+                    <td>
+                        P1-1
+                    </td>
+                    <td>
+
+                        間接人員
+                    </td>
+                    <td>
+
+                        2012-10-07 
+                    </td>
+                    <td>
+
+                        異常
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                    <td>
+
+                        門禁
+                    </td>
+                    <td>
+
+                        下班門禁
+                    </td>
+                    <td>
+
+                        未刷下班門禁卡
+                    </td>
+                   
+                </tr>
+                <tr class="red">
+                    <td>
+                        50253
+                    </td>
+                    <td>
+                        丁紅梅
+                    </td>
+                    <td>
+                        P1-1
+                    </td>
+                    <td>
+
+                        間接人員
+                    </td>
+                    <td>
+
+                        2012-10-07 
+                    </td>
+                    <td>
+
+                        異常
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                    <td>
+
+                        廠區大門門禁
+                    </td>
+                    <td>
+
+                        未刷下班廠區大門門禁
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                   
+                </tr>
+                <tr class="red">
+                    <td>
+                        50253
+                    </td>
+                    <td>
+                        丁紅梅
+                    </td>
+                    <td>
+                        P1-1
+                    </td>
+                    <td>
+
+                        間接人員
+                    </td>
+                    <td>
+
+                        2012-10-07  17:00
+                    </td>
+                    <td>
+
+                        異常
+                    </td>
+                    <td>
+
+                        
+                    </td>
+                    <td>
+
+                        考勤
+                    </td>
+                    <td>
+
+                        下班考勤
+                    </td>
+                    <td>
+
+                        未刷下班卡
+                    </td>
+                   
+                </tr>
+           
+        </tbody>
+    </table>
+</div>
+
+</span>

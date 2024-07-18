@@ -1,0 +1,69 @@
+2015/7/21 上午 01:55:01::2015-07-21 01:55:01:Application Start!
+
+2015/7/21 上午 02:16:01::2015-07-21 02:16:01:Application End!
+
+2015/7/21 上午 08:46:42::2015-07-21 08:46:42:Application Start!
+
+2015/7/21 上午 08:47:00==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/7/21 上午 08:47:00==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/7/21 上午 08:47:00==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/7/21 上午 08:48:24==> Errors Description:遠端主機已關閉連接。錯誤碼為 0x80070040。Errors Location:   於 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   於 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   於 System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   於 System.Web.HttpResponse.Flush()
+   於 System.Web.HttpResponseWrapper.Flush()
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortalAudit\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 680
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.<>c__DisplayClass1.<WrapVoidAction>b__0(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/7/21 上午 09:08:42::2015-07-21 09:08:42:Application End!
+
+2015/7/21 上午 09:45:53::2015-07-21 09:45:53:Application Start!
+
+2015/7/21 上午 10:30:53::2015-07-21 10:30:53:Application End!
+
+2015/7/21 下午 12:33:43::2015-07-21 12:33:43:Application Start!
+
+2015/7/21 下午 12:54:43::2015-07-21 12:54:43:Application End!
+
+2015/7/21 下午 01:36:51::2015-07-21 13:36:51:Application Start!
+
+2015/7/21 下午 01:37:03==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/7/21 下午 02:00:51::2015-07-21 14:00:51:Application End!
+
+2015/7/21 下午 03:47:16::2015-07-21 15:47:16:Application Start!
+
+2015/7/21 下午 04:08:16::2015-07-21 16:08:16:Application End!
+
+2015/7/21 下午 04:16:55::2015-07-21 16:16:55:Application Start!
+
+2015/7/21 下午 04:37:56::2015-07-21 16:37:56:Application End!
+
+2015/7/21 下午 04:50:25::2015-07-21 16:50:25:Application Start!
+
+2015/7/21 下午 05:11:25::2015-07-21 17:11:25:Application End!
+
+2015/7/21 下午 07:18:16::2015-07-21 19:18:16:Application Start!
+
+2015/7/21 下午 07:39:16::2015-07-21 19:39:16:Application End!
+

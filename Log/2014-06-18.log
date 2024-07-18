@@ -1,0 +1,94 @@
+2014/6/18 上午 08:08:10==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:08:16==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:08:42==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:12:28==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2014/6/18 上午 08:13:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:20:04==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:20:19==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:25:41==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:26:49==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:29:22==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:46:28==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2014/6/18 上午 08:47:04==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:47:10==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:54:21==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2014/6/18 上午 08:55:49==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:56:13==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 08:58:14==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 09:02:15==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 10:49:25==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 10:49:53==> Errors Description:Length cannot be less than zero.
+Parameter name: lengthErrors Location:   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ePortal.Web.Controllers.AttendanceController.audits(Analyse entity, Employee_Full Employee, Boolean anomalous, String username, Int32 count) in E:\SourceSafe\Test\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 1428
+   at ePortal.Web.Controllers.AttendanceController.Analyse(String StartDate, String endDate, String empno, String anomalous) in E:\SourceSafe\Test\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 633
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2014/6/18 上午 10:51:36==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 10:52:53==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 10:56:09==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 11:00:32==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+
+2014/6/18 上午 11:01:59==> Errors Description:Input string was not in a correct format.Errors Location:   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at ePortal.Web.Controllers.AttendanceController.audits(Analyse entity, Employee_Full Employee, Boolean anomalous, String username, Int32 count) in E:\SourceSafe\Test\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 1428
+   at ePortal.Web.Controllers.AttendanceController.Analyse(String StartDate, String endDate, String empno, String anomalous) in E:\SourceSafe\Test\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 633
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2014/6/18 上午 11:04:57==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:test Operate Type:刪除
+

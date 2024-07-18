@@ -1,0 +1,33 @@
+2015/2/7 上午 12:12:43::2015-02-07 00:12:43:Application End!
+
+2015/2/7 上午 12:14:14::2015-02-07 00:14:14:Application Start!
+
+2015/2/7 上午 02:14:14::2015-02-07 02:14:14:Application End!
+
+2015/2/7 上午 02:15:44::2015-02-07 02:15:44:Application Start!
+
+2015/2/7 上午 04:15:45::2015-02-07 04:15:45:Application End!
+
+2015/2/7 上午 04:17:30::2015-02-07 04:17:30:Application Start!
+
+2015/2/7 上午 06:17:15::2015-02-07 06:17:15:Application End!
+
+2015/2/7 上午 06:18:46::2015-02-07 06:18:46:Application Start!
+
+2015/2/7 上午 09:17:48::2015-02-07 09:17:48:Application End!
+
+2015/2/7 上午 09:19:19::2015-02-07 09:19:19:Application Start!
+
+2015/2/7 上午 10:20:00::2015-02-07 10:20:00:AutoTask is Working!
+
+2015/2/7 下午 01:40:00==> Errors Description:作業逾時Errors Location:   於 System.Net.HttpWebRequest.GetResponse()
+   於 ePortal.Web.Core.Job.AttendanceAnomalyJob.ExecuteJob() 於 E:\attrec\Test-ePortal\ePortal\ePortal.Web.Core\Job\AttendanceAnomalyJob.cs: 行 26
+
+2015/2/7 下午 09:26:32::2015-02-07 21:26:32:Application End!
+
+2015/2/7 下午 09:28:04::2015-02-07 21:28:04:Application Start!
+
+2015/2/7 下午 11:28:03::2015-02-07 23:28:03:Application End!
+
+2015/2/7 下午 11:29:33::2015-02-07 23:29:33:Application Start!
+

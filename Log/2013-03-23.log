@@ -1,0 +1,91 @@
+2013/3/23 14:36:44==> Errors Description:Thread was being aborted.Errors Location:   at System.Net.Connection.CompleteStartConnection(Boolean async, HttpWebRequest httpWebRequest)
+   at System.Net.Connection.CompleteStartRequest(Boolean onSubmitThread, HttpWebRequest request, TriState needReConnect)
+   at System.Net.Connection.SubmitRequest(HttpWebRequest request, Boolean forcedsubmit)
+   at System.Net.ServicePoint.SubmitRequest(HttpWebRequest request, String connName)
+   at System.Net.HttpWebRequest.SubmitRequest(ServicePoint servicePoint)
+   at System.Net.HttpWebRequest.GetResponse()
+   at ePortal.Web.Core.Job.AttendanceAnomalyJob.ExecuteJob() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web.Core\Job\AttendanceAnomalyJob.cs:line 26
+
+2013/3/23 14:36:44==> Errors Description:Thread was being aborted.Errors Location:   at ePortal.Web.Core.Job.AttendanceAnomalyJob.ExecuteJob() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web.Core\Job\AttendanceAnomalyJob.cs:line 36
+   at ePortal.Web.Core.Job.QuartzAttendanceAnomalyJob.Execute(JobExecutionContext context) in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web.Core\Job\QuartzAttendanceAnomalyJob.cs:line 16
+
+2013/3/23 15:29:15==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 15:29:54==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 15:29:54==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 15:31:08==> Errors Description:Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.Errors Location:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at System.Data.Objects.ObjectContext.ExecuteStoreQueryInternal[TElement](String commandText, String entitySetName, MergeOption mergeOption, Object[] parameters)
+   at System.Data.Objects.ObjectContext.ExecuteStoreQuery[TElement](String commandText, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQuery[TElement](String sql, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQueryAsIEnumerable[TElement](String sql, Object[] parameters)
+   at System.Data.Entity.Internal.InternalContext.ExecuteSqlQuery(Type elementType, String sql, Object[] parameters)
+   at System.Data.Entity.Internal.InternalSqlNonSetQuery.GetEnumerator()
+   at System.Data.Entity.Internal.InternalSqlQuery`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 371
+
+2013/3/23 15:31:08==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 15:32:29==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 15:33:10==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 15:33:10==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 15:38:18==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 15:38:41==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 15:38:41==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:00:50==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:04:40==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:04:40==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:07:43==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:07:43==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:10:20==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:10:20==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:10:24==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:10:24==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:13:52==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:13:52==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:13:52==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:13:53==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:16:01==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:16:01==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:16:19==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/23 16:16:19==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/23 16:16:19==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+

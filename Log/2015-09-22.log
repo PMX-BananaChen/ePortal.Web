@@ -1,0 +1,92 @@
+2015/9/22 上午 01:10:25::2015-09-22 01:10:25:Application Start!
+
+2015/9/22 上午 01:31:25::2015-09-22 01:31:25:Application End!
+
+2015/9/22 上午 02:58:39::2015-09-22 02:58:39:Application Start!
+
+2015/9/22 上午 03:19:39::2015-09-22 03:19:39:Application End!
+
+2015/9/22 上午 06:30:42::2015-09-22 06:30:42:Application Start!
+
+2015/9/22 上午 06:51:43::2015-09-22 06:51:43:Application End!
+
+2015/9/22 上午 10:42:53::2015-09-22 10:42:53:Application Start!
+
+2015/9/22 上午 11:03:53::2015-09-22 11:03:53:Application End!
+
+2015/9/22 下午 01:33:17::2015-09-22 13:33:17:Application Start!
+
+2015/9/22 下午 01:54:18::2015-09-22 13:54:18:Application End!
+
+2015/9/22 下午 03:14:58::2015-09-22 15:14:58:Application Start!
+
+2015/9/22 下午 03:15:44==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/9/22 下午 03:47:58::2015-09-22 15:47:58:Application End!
+
+2015/9/22 下午 04:55:15::2015-09-22 16:55:15:Application Start!
+
+2015/9/22 下午 05:21:16::2015-09-22 17:21:16:Application End!
+
+2015/9/22 下午 05:23:35::2015-09-22 17:23:35:Application Start!
+
+2015/9/22 下午 05:44:36::2015-09-22 17:44:36:Application End!
+
+2015/9/22 下午 07:03:43::2015-09-22 19:03:43:Application Start!
+
+2015/9/22 下午 07:20:20==> Errors Description:遠端主機已關閉連接。錯誤碼為 0x800704CD。Errors Location:   於 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   於 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   於 System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   於 System.Web.HttpResponse.Flush()
+   於 System.Web.HttpResponseWrapper.Flush()
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortalAudit\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 680
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.<>c__DisplayClass1.<WrapVoidAction>b__0(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/9/22 下午 07:21:13==> Errors Description:遠端主機已關閉連接。錯誤碼為 0x800704CD。Errors Location:   於 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   於 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   於 System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   於 System.Web.HttpResponse.Flush()
+   於 System.Web.HttpResponseWrapper.Flush()
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortalAudit\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 680
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.<>c__DisplayClass1.<WrapVoidAction>b__0(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/9/22 下午 07:56:43::2015-09-22 19:56:43:Application End!
+
+2015/9/22 下午 10:42:02::2015-09-22 22:42:02:Application Start!
+
+2015/9/22 下午 11:03:02::2015-09-22 23:03:02:Application End!
+

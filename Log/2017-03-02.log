@@ -1,0 +1,95 @@
+2017/3/2 上午 07:20:47::2017-03-02 07:20:47:Application Start!
+
+2017/3/2 上午 07:41:47::2017-03-02 07:41:47:Application End!
+
+2017/3/2 上午 08:13:12::2017-03-02 08:13:12:Application Start!
+
+2017/3/2 上午 08:34:10::2017-03-02 08:34:10:Application End!
+
+2017/3/2 上午 08:52:25::2017-03-02 08:52:25:Application Start!
+
+2017/3/2 上午 09:13:24::2017-03-02 09:13:24:Application End!
+
+2017/3/2 上午 10:08:01::2017-03-02 10:08:01:Application Start!
+
+2017/3/2 上午 10:29:01::2017-03-02 10:29:01:Application End!
+
+2017/3/2 上午 10:49:17::2017-03-02 10:49:17:Application Start!
+
+2017/3/2 上午 11:10:17::2017-03-02 11:10:17:Application End!
+
+2017/3/2 上午 11:58:01::2017-03-02 11:58:00:Application Start!
+
+2017/3/2 下午 12:23:00::2017-03-02 12:23:00:Application End!
+
+2017/3/2 下午 01:41:43::2017-03-02 13:41:43:Application Start!
+
+2017/3/2 下午 02:02:43::2017-03-02 14:02:43:Application End!
+
+2017/3/2 下午 03:31:36::2017-03-02 15:31:36:Application Start!
+
+2017/3/2 下午 04:10:35::2017-03-02 16:10:35:Application End!
+
+2017/3/2 下午 04:56:50::2017-03-02 16:56:50:Application Start!
+
+2017/3/2 下午 04:58:44==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2017/3/2 下午 05:28:31==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal2\ePortal.Web\temp\Attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String DeptNoBegin, String DeptNoEnd, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian, String ShowType) 於 d:\Code\ePortl\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 660
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.<>c__DisplayClass1.<WrapVoidAction>b__0(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2017/3/2 下午 05:28:32==> Errors Description:遠端主機已關閉連接。錯誤碼為 0x800704CD。Errors Location:   於 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   於 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   於 System.Web.HttpResponse.Flush(Boolean finalFlush, Boolean async)
+   於 System.Web.HttpResponse.Flush()
+   於 System.Web.HttpResponseWrapper.Flush()
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String DeptNoBegin, String DeptNoEnd, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian, String ShowType) 於 d:\Code\ePortl\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 693
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.<>c__DisplayClass1.<WrapVoidAction>b__0(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2017/3/2 下午 05:53:49::2017-03-02 17:53:49:Application End!
+
+2017/3/2 下午 06:12:39::2017-03-02 18:12:39:Application Start!
+
+2017/3/2 下午 06:33:40::2017-03-02 18:33:40:Application End!
+
+2017/3/2 下午 06:57:50::2017-03-02 18:57:50:Application Start!
+
+2017/3/2 下午 07:18:50::2017-03-02 19:18:50:Application End!
+

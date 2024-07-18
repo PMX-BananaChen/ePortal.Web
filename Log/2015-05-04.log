@@ -1,0 +1,400 @@
+2015/5/4 上午 12:29:32::2015-05-04 00:29:32:Application End!
+
+2015/5/4 上午 12:29:34::2015-05-04 00:29:34:Application Start!
+
+2015/5/4 上午 12:50:34::2015-05-04 00:50:34:Application End!
+
+2015/5/4 上午 12:50:36::2015-05-04 00:50:36:Application Start!
+
+2015/5/4 上午 01:11:36::2015-05-04 01:11:36:Application End!
+
+2015/5/4 上午 01:11:38::2015-05-04 01:11:38:Application Start!
+
+2015/5/4 上午 01:32:38::2015-05-04 01:32:38:Application End!
+
+2015/5/4 上午 01:32:40::2015-05-04 01:32:40:Application Start!
+
+2015/5/4 上午 01:53:40::2015-05-04 01:53:40:Application End!
+
+2015/5/4 上午 01:53:42::2015-05-04 01:53:42:Application Start!
+
+2015/5/4 上午 02:14:42::2015-05-04 02:14:42:Application End!
+
+2015/5/4 上午 02:14:44::2015-05-04 02:14:44:Application Start!
+
+2015/5/4 上午 02:35:44::2015-05-04 02:35:44:Application End!
+
+2015/5/4 上午 02:35:46::2015-05-04 02:35:46:Application Start!
+
+2015/5/4 上午 02:56:47::2015-05-04 02:56:47:Application End!
+
+2015/5/4 上午 02:56:48::2015-05-04 02:56:48:Application Start!
+
+2015/5/4 上午 03:17:49::2015-05-04 03:17:49:Application End!
+
+2015/5/4 上午 03:17:50::2015-05-04 03:17:50:Application Start!
+
+2015/5/4 上午 03:38:51::2015-05-04 03:38:51:Application End!
+
+2015/5/4 上午 03:38:52::2015-05-04 03:38:52:Application Start!
+
+2015/5/4 上午 03:59:53::2015-05-04 03:59:53:Application End!
+
+2015/5/4 上午 03:59:54::2015-05-04 03:59:54:Application Start!
+
+2015/5/4 上午 04:20:55::2015-05-04 04:20:55:Application End!
+
+2015/5/4 上午 04:20:56::2015-05-04 04:20:56:Application Start!
+
+2015/5/4 上午 04:41:57::2015-05-04 04:41:57:Application End!
+
+2015/5/4 上午 04:41:58::2015-05-04 04:41:58:Application Start!
+
+2015/5/4 上午 05:02:59::2015-05-04 05:02:59:Application End!
+
+2015/5/4 上午 05:03:00::2015-05-04 05:03:00:Application Start!
+
+2015/5/4 上午 05:24:01::2015-05-04 05:24:01:Application End!
+
+2015/5/4 上午 05:24:02::2015-05-04 05:24:02:Application Start!
+
+2015/5/4 上午 05:45:03::2015-05-04 05:45:03:Application End!
+
+2015/5/4 上午 05:45:05::2015-05-04 05:45:05:Application Start!
+
+2015/5/4 上午 06:06:05::2015-05-04 06:06:05:Application End!
+
+2015/5/4 上午 06:06:07::2015-05-04 06:06:06:Application Start!
+
+2015/5/4 上午 06:27:07::2015-05-04 06:27:07:Application End!
+
+2015/5/4 上午 06:27:09::2015-05-04 06:27:09:Application Start!
+
+2015/5/4 上午 06:48:09::2015-05-04 06:48:09:Application End!
+
+2015/5/4 上午 06:48:11::2015-05-04 06:48:11:Application Start!
+
+2015/5/4 上午 07:09:11::2015-05-04 07:09:11:Application End!
+
+2015/5/4 上午 07:09:13::2015-05-04 07:09:13:Application Start!
+
+2015/5/4 上午 07:30:13::2015-05-04 07:30:13:Application End!
+
+2015/5/4 上午 07:30:15::2015-05-04 07:30:15:Application Start!
+
+2015/5/4 上午 07:51:15::2015-05-04 07:51:15:Application End!
+
+2015/5/4 上午 07:51:17::2015-05-04 07:51:17:Application Start!
+
+2015/5/4 上午 08:12:17::2015-05-04 08:12:17:Application End!
+
+2015/5/4 上午 08:12:19::2015-05-04 08:12:19:Application Start!
+
+2015/5/4 上午 08:33:19::2015-05-04 08:33:19:Application End!
+
+2015/5/4 上午 08:33:21::2015-05-04 08:33:21:Application Start!
+
+2015/5/4 上午 08:54:22::2015-05-04 08:54:22:Application End!
+
+2015/5/4 上午 08:54:24::2015-05-04 08:54:24:Application Start!
+
+2015/5/4 上午 09:15:25::2015-05-04 09:15:25:Application End!
+
+2015/5/4 上午 09:15:26::2015-05-04 09:15:26:Application Start!
+
+2015/5/4 上午 09:18:40==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/5/4 上午 10:20:04::2015-05-04 10:20:04:AutoTask is Working!
+
+2015/5/4 上午 10:41:07==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:41:08==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:53:23==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:53:59==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:53:59==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:54:12==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:54:35==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/5/4 上午 10:55:40==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 上午 10:55:40==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/5/4 下午 12:39:23::自動執行計算門禁考勤異常報表:true
+
+2015/5/4 下午 12:59:27::2015-05-04 12:59:27:Application End!
+
+2015/5/4 下午 12:59:29::2015-05-04 12:59:29:Application Start!
+
+2015/5/4 下午 01:20:30::2015-05-04 13:20:30:Application End!
+
+2015/5/4 下午 01:20:31::2015-05-04 13:20:31:Application Start!
+
+2015/5/4 下午 01:41:32::2015-05-04 13:41:32:Application End!
+
+2015/5/4 下午 01:41:33::2015-05-04 13:41:33:Application Start!
+
+2015/5/4 下午 02:26:34::2015-05-04 14:26:34:Application End!
+
+2015/5/4 下午 02:26:36::2015-05-04 14:26:36:Application Start!
+
+2015/5/4 下午 04:06:36::2015-05-04 16:06:36:Application End!
+
+2015/5/4 下午 04:06:38::2015-05-04 16:06:38:Application Start!
+
+2015/5/4 下午 04:37:39::2015-05-04 16:37:39:Application End!
+
+2015/5/4 下午 04:37:40::2015-05-04 16:37:40:Application Start!
+
+2015/5/4 下午 04:58:41::2015-05-04 16:58:41:Application End!
+
+2015/5/4 下午 04:58:43::2015-05-04 16:58:43:Application Start!
+
+2015/5/4 下午 05:19:43::2015-05-04 17:19:43:Application End!
+
+2015/5/4 下午 05:19:45::2015-05-04 17:19:45:Application Start!
+
+2015/5/4 下午 06:16:44::2015-05-04 18:16:44:Application End!
+
+2015/5/4 下午 06:16:45::2015-05-04 18:16:45:Application Start!
+
+2015/5/4 下午 06:37:46::2015-05-04 18:37:46:Application End!
+
+2015/5/4 下午 06:37:47::2015-05-04 18:37:47:Application Start!
+
+2015/5/4 下午 06:58:48::2015-05-04 18:58:48:Application End!
+
+2015/5/4 下午 06:58:49::2015-05-04 18:58:49:Application Start!
+
+2015/5/4 下午 07:19:50::2015-05-04 19:19:50:Application End!
+
+2015/5/4 下午 07:19:51::2015-05-04 19:19:51:Application Start!
+
+2015/5/4 下午 07:40:52::2015-05-04 19:40:52:Application End!
+
+2015/5/4 下午 07:40:54::2015-05-04 19:40:54:Application Start!
+
+2015/5/4 下午 08:01:54::2015-05-04 20:01:54:Application End!
+
+2015/5/4 下午 08:01:56::2015-05-04 20:01:56:Application Start!
+
+2015/5/4 下午 08:22:56::2015-05-04 20:22:56:Application End!
+
+2015/5/4 下午 08:22:58::2015-05-04 20:22:58:Application Start!
+
+2015/5/4 下午 08:43:58::2015-05-04 20:43:58:Application End!
+
+2015/5/4 下午 08:44:00::2015-05-04 20:44:00:Application Start!
+
+2015/5/4 下午 09:05:00::2015-05-04 21:05:00:Application End!
+
+2015/5/4 下午 09:05:02::2015-05-04 21:05:02:Application Start!
+
+2015/5/4 下午 09:26:02::2015-05-04 21:26:02:Application End!
+
+2015/5/4 下午 09:26:04::2015-05-04 21:26:04:Application Start!
+
+2015/5/4 下午 10:01:04::2015-05-04 22:01:04:Application End!
+
+2015/5/4 下午 10:01:06::2015-05-04 22:01:06:Application Start!
+
+2015/5/4 下午 10:22:06::2015-05-04 22:22:06:Application End!
+
+2015/5/4 下午 10:22:08::2015-05-04 22:22:08:Application Start!
+
+2015/5/4 下午 10:43:08::2015-05-04 22:43:08:Application End!
+
+2015/5/4 下午 10:43:10::2015-05-04 22:43:10:Application Start!
+
+2015/5/4 下午 11:05:10::2015-05-04 23:05:10:Application End!
+
+2015/5/4 下午 11:05:12::2015-05-04 23:05:12:Application Start!
+
+2015/5/4 下午 11:26:12::2015-05-04 23:26:12:Application End!
+
+2015/5/4 下午 11:26:14::2015-05-04 23:26:14:Application Start!
+
+2015/5/4 下午 11:47:14::2015-05-04 23:47:14:Application End!
+
+2015/5/4 下午 11:47:16::2015-05-04 23:47:16:Application Start!
+

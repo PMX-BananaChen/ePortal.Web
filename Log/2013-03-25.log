@@ -1,0 +1,220 @@
+2013/3/25 08:30:43==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:31:23==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:31:23==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:33:34==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:33:34==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:35:54==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:35:54==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:36:03==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:36:03==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:38:59==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:38:59==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:39:00==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:39:00==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:41:03==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:41:03==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:41:28==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:41:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:41:32==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:42:18==> Errors Description:An error occurred while reading from the store provider's data reader. See the inner exception for details.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper`1.StoreRead()
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 08:42:38==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:45:25==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 08:45:25==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 08:46:08==> Errors Description:An error occurred while reading from the store provider's data reader. See the inner exception for details.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper`1.StoreRead()
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 11:32:52==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 11:35:00==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 11:38:22==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 11:38:22==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 11:42:28==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 11:42:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 11:46:57==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 11:46:57==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 13:48:56==> Errors Description:An error occurred while reading from the store provider's data reader. See the inner exception for details.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper`1.StoreRead()
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 13:48:57==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 13:56:43==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 13:56:44==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 14:00:28==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 14:00:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 14:02:28==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 14:02:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 14:05:07==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 14:05:08==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 14:05:31==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 14:05:31==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 14:05:39==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 15:51:31==> Errors Description:The specified cast from a materialized 'System.String' type to a nullable 'System.DateTime' type is not valid.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at System.Data.Common.Internal.Materialization.Shaper.GetColumnValueWithErrorHandling[TColumn](Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 15:51:35==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 15:52:14==> Errors Description:The specified cast from a materialized 'System.String' type to a nullable 'System.DateTime' type is not valid.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at System.Data.Common.Internal.Materialization.Shaper.GetColumnValueWithErrorHandling[TColumn](Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 15:52:14==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 15:57:00==> Errors Description:The specified cast from a materialized 'System.String' type to a nullable 'System.DateTime' type is not valid.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at System.Data.Common.Internal.Materialization.Shaper.GetColumnValueWithErrorHandling[TColumn](Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 15:57:15==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 16:02:05==> Errors Description:The specified cast from a materialized 'System.String' type to a nullable 'System.DateTime' type is not valid.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at System.Data.Common.Internal.Materialization.Shaper.GetColumnValueWithErrorHandling[TColumn](Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 16:02:05==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 16:03:06==> Errors Description:The specified cast from a materialized 'System.String' type to a nullable 'System.DateTime' type is not valid.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at System.Data.Common.Internal.Materialization.Shaper.GetColumnValueWithErrorHandling[TColumn](Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 16:03:06==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 16:34:32==> Errors Description:The specified cast from a materialized 'System.String' type to a nullable 'System.DateTime' type is not valid.Errors Location:   at System.Data.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at System.Data.Common.Internal.Materialization.Shaper.GetColumnValueWithErrorHandling[TColumn](Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ePortal.Web.Controllers.AttendanceController.SendAllAnalyse() in D:\Hilton Ni\ePortal2013-01-07\ePortal\ePortal.Web\Controllers\AttendanceController.cs:line 406
+
+2013/3/25 16:34:32==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 16:36:46==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 16:36:47==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 17:54:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 17:54:50==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 17:54:50==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 17:57:21==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 17:57:22==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 17:59:47==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 17:59:47==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:01:44==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:01:45==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:05:28==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:05:28==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:07:10==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:07:10==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:08:51==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:08:51==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:11:09==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:11:09==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:11:23==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:11:23==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:11:23==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:12:14==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:12:14==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:13:44==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013/3/25 18:13:44==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013/3/25 18:15:36==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+

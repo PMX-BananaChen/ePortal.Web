@@ -1,0 +1,44 @@
+2013-07-02 08:34:11::自動執行發送門禁考勤異常報表郵件:true
+
+2013-07-02 18:03:06==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:hilton Operate Type:登錄
+
+2013-07-02 18:03:25==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:04:36==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:05:47==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:05:47==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:06:27==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:06:27==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:10:11==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:10:11==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:11:22==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:11:22==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:13:17==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:13:17==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:13:32==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:13:48==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:13:48==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:14:12==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:14:12==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:14:52==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+
+2013-07-02 18:14:52==> Operate Description:根據用戶名刪除之前生成的異常分析記錄, Operate Model:考勤稽核, Operate creater:AuitMail Operate Type:刪除
+
+2013-07-02 18:16:02==> Operate Description:定時發送異常郵件, Operate Model:考勤稽核, Operate creater:AuitJobMail Operate Type:AuitJobMail
+

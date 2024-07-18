@@ -1,0 +1,246 @@
+2015/4/30 上午 12:11:08::2015-04-30 00:11:08:Application End!
+
+2015/4/30 上午 12:11:10::2015-04-30 00:11:10:Application Start!
+
+2015/4/30 上午 12:32:10::2015-04-30 00:32:10:Application End!
+
+2015/4/30 上午 12:32:12::2015-04-30 00:32:12:Application Start!
+
+2015/4/30 上午 12:53:12::2015-04-30 00:53:12:Application End!
+
+2015/4/30 上午 12:53:14::2015-04-30 00:53:14:Application Start!
+
+2015/4/30 上午 01:14:14::2015-04-30 01:14:14:Application End!
+
+2015/4/30 上午 01:14:16::2015-04-30 01:14:16:Application Start!
+
+2015/4/30 上午 01:35:17::2015-04-30 01:35:17:Application End!
+
+2015/4/30 上午 01:35:18::2015-04-30 01:35:18:Application Start!
+
+2015/4/30 上午 01:56:19::2015-04-30 01:56:19:Application End!
+
+2015/4/30 上午 01:56:21::2015-04-30 01:56:21:Application Start!
+
+2015/4/30 上午 02:17:21::2015-04-30 02:17:21:Application End!
+
+2015/4/30 上午 02:17:23::2015-04-30 02:17:23:Application Start!
+
+2015/4/30 上午 02:38:23::2015-04-30 02:38:23:Application End!
+
+2015/4/30 上午 02:38:25::2015-04-30 02:38:25:Application Start!
+
+2015/4/30 上午 02:59:25::2015-04-30 02:59:25:Application End!
+
+2015/4/30 上午 02:59:27::2015-04-30 02:59:27:Application Start!
+
+2015/4/30 上午 03:20:27::2015-04-30 03:20:27:Application End!
+
+2015/4/30 上午 03:20:29::2015-04-30 03:20:29:Application Start!
+
+2015/4/30 上午 03:41:30::2015-04-30 03:41:30:Application End!
+
+2015/4/30 上午 03:41:31::2015-04-30 03:41:31:Application Start!
+
+2015/4/30 上午 04:02:32::2015-04-30 04:02:32:Application End!
+
+2015/4/30 上午 04:02:33::2015-04-30 04:02:33:Application Start!
+
+2015/4/30 上午 04:23:34::2015-04-30 04:23:34:Application End!
+
+2015/4/30 上午 04:23:36::2015-04-30 04:23:36:Application Start!
+
+2015/4/30 上午 04:44:35::2015-04-30 04:44:35:Application End!
+
+2015/4/30 上午 04:44:37::2015-04-30 04:44:37:Application Start!
+
+2015/4/30 上午 05:05:37::2015-04-30 05:05:36:Application End!
+
+2015/4/30 上午 05:05:38::2015-04-30 05:05:38:Application Start!
+
+2015/4/30 上午 05:26:39::2015-04-30 05:26:39:Application End!
+
+2015/4/30 上午 05:26:40::2015-04-30 05:26:40:Application Start!
+
+2015/4/30 上午 05:47:41::2015-04-30 05:47:41:Application End!
+
+2015/4/30 上午 05:47:42::2015-04-30 05:47:42:Application Start!
+
+2015/4/30 上午 06:08:43::2015-04-30 06:08:43:Application End!
+
+2015/4/30 上午 06:08:44::2015-04-30 06:08:44:Application Start!
+
+2015/4/30 上午 06:29:45::2015-04-30 06:29:45:Application End!
+
+2015/4/30 上午 06:29:46::2015-04-30 06:29:46:Application Start!
+
+2015/4/30 上午 06:50:47::2015-04-30 06:50:47:Application End!
+
+2015/4/30 上午 06:50:49::2015-04-30 06:50:49:Application Start!
+
+2015/4/30 上午 07:11:49::2015-04-30 07:11:49:Application End!
+
+2015/4/30 上午 07:11:52::2015-04-30 07:11:52:Application Start!
+
+2015/4/30 上午 07:32:51::2015-04-30 07:32:51:Application End!
+
+2015/4/30 上午 07:32:53::2015-04-30 07:32:53:Application Start!
+
+2015/4/30 上午 07:53:53::2015-04-30 07:53:53:Application End!
+
+2015/4/30 上午 07:53:55::2015-04-30 07:53:55:Application Start!
+
+2015/4/30 上午 08:14:56::2015-04-30 08:14:56:Application End!
+
+2015/4/30 上午 08:14:57::2015-04-30 08:14:57:Application Start!
+
+2015/4/30 上午 08:51:50::2015-04-30 08:51:50:Application End!
+
+2015/4/30 上午 08:54:00::2015-04-30 08:54:00:Application Start!
+
+2015/4/30 上午 09:08:29==> Errors Description:由於另一個處理序正在使用檔案 'E:\ePortal\ePortal.Web\temp\attendance.xls'，所以無法存取該檔案。Errors Location:   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   於 System.IO.FileStream..ctor(String path, FileMode mode)
+   於 ePortal.Web.Controllers.AttendanceController.ToExcel(HtmlGenericControl divControl, String filename) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 690
+   於 ePortal.Web.Controllers.AttendanceController.attendancexls(Nullable`1 StartDate, Nullable`1 EndDate, String factory, String department, String empno, String employes, String emptype, String control, String anomalous, String Chidao, String Zaotui, String Kuanggong, String Qingjia, String Jingchu, String Chejian) 於 e:\ePortal\ePortal.Web\Controllers\AttendanceController.cs: 行 682
+   於 lambda_method(Closure , ControllerBase , Object[] )
+   於 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   於 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   於 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   於 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   於 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+
+2015/4/30 上午 09:46:57::2015-04-30 09:46:57:Application End!
+
+2015/4/30 上午 09:47:00::2015-04-30 09:47:00:Application Start!
+
+2015/4/30 上午 10:19:00::2015-04-30 10:18:59:Application End!
+
+2015/4/30 上午 10:19:02::2015-04-30 10:19:02:Application Start!
+
+2015/4/30 上午 10:20:00::2015-04-30 10:20:00:AutoTask is Working!
+
+2015/4/30 下午 12:55:10::自動執行計算門禁考勤異常報表:true
+
+2015/4/30 下午 01:16:01::2015-04-30 13:16:01:Application End!
+
+2015/4/30 下午 01:16:04::2015-04-30 13:16:04:Application Start!
+
+2015/4/30 下午 01:37:03::2015-04-30 13:37:03:Application End!
+
+2015/4/30 下午 01:37:05::2015-04-30 13:37:05:Application Start!
+
+2015/4/30 下午 01:58:07::2015-04-30 13:58:07:Application End!
+
+2015/4/30 下午 01:58:09::2015-04-30 13:58:09:Application Start!
+
+2015/4/30 下午 02:19:09::2015-04-30 14:19:09:Application End!
+
+2015/4/30 下午 02:19:11::2015-04-30 14:19:11:Application Start!
+
+2015/4/30 下午 02:40:11::2015-04-30 14:40:11:Application End!
+
+2015/4/30 下午 02:40:13::2015-04-30 14:40:13:Application Start!
+
+2015/4/30 下午 03:17:14::2015-04-30 15:17:14:Application End!
+
+2015/4/30 下午 03:17:15::2015-04-30 15:17:15:Application Start!
+
+2015/4/30 下午 03:30:54==> Operate Description:用戶登錄, Operate Model:用戶管理, Operate creater:test Operate Type:登錄
+
+2015/4/30 下午 04:25:16::2015-04-30 16:25:16:Application End!
+
+2015/4/30 下午 04:25:18::2015-04-30 16:25:18:Application Start!
+
+2015/4/30 下午 04:46:18::2015-04-30 16:46:18:Application End!
+
+2015/4/30 下午 04:46:20::2015-04-30 16:46:20:Application Start!
+
+2015/4/30 下午 05:07:20::2015-04-30 17:07:20:Application End!
+
+2015/4/30 下午 05:07:22::2015-04-30 17:07:22:Application Start!
+
+2015/4/30 下午 05:28:23::2015-04-30 17:28:22:Application End!
+
+2015/4/30 下午 05:28:24::2015-04-30 17:28:24:Application Start!
+
+2015/4/30 下午 05:49:25::2015-04-30 17:49:25:Application End!
+
+2015/4/30 下午 05:49:26::2015-04-30 17:49:26:Application Start!
+
+2015/4/30 下午 06:10:27::2015-04-30 18:10:27:Application End!
+
+2015/4/30 下午 06:10:29::2015-04-30 18:10:29:Application Start!
+
+2015/4/30 下午 06:52:29::2015-04-30 18:52:29:Application End!
+
+2015/4/30 下午 06:52:32::2015-04-30 18:52:32:Application Start!
+
+2015/4/30 下午 07:13:32::2015-04-30 19:13:31:Application End!
+
+2015/4/30 下午 07:13:33::2015-04-30 19:13:33:Application Start!
+
+2015/4/30 下午 07:34:34::2015-04-30 19:34:34:Application End!
+
+2015/4/30 下午 07:34:35::2015-04-30 19:34:35:Application Start!
+
+2015/4/30 下午 07:55:36::2015-04-30 19:55:36:Application End!
+
+2015/4/30 下午 07:55:38::2015-04-30 19:55:38:Application Start!
+
+2015/4/30 下午 08:16:38::2015-04-30 20:16:38:Application End!
+
+2015/4/30 下午 08:16:40::2015-04-30 20:16:40:Application Start!
+
+2015/4/30 下午 08:37:40::2015-04-30 20:37:40:Application End!
+
+2015/4/30 下午 08:37:43::2015-04-30 20:37:43:Application Start!
+
+2015/4/30 下午 08:58:43::2015-04-30 20:58:43:Application End!
+
+2015/4/30 下午 08:58:44::2015-04-30 20:58:44:Application Start!
+
+2015/4/30 下午 09:19:45::2015-04-30 21:19:45:Application End!
+
+2015/4/30 下午 09:19:47::2015-04-30 21:19:47:Application Start!
+
+2015/4/30 下午 09:40:47::2015-04-30 21:40:47:Application End!
+
+2015/4/30 下午 09:40:49::2015-04-30 21:40:49:Application Start!
+
+2015/4/30 下午 10:01:49::2015-04-30 22:01:49:Application End!
+
+2015/4/30 下午 10:01:51::2015-04-30 22:01:51:Application Start!
+
+2015/4/30 下午 10:22:51::2015-04-30 22:22:51:Application End!
+
+2015/4/30 下午 10:22:54::2015-04-30 22:22:54:Application Start!
+
+2015/4/30 下午 10:43:54::2015-04-30 22:43:54:Application End!
+
+2015/4/30 下午 10:43:56::2015-04-30 22:43:56:Application Start!
+
+2015/4/30 下午 11:04:54::2015-04-30 23:04:54:Application End!
+
+2015/4/30 下午 11:04:56::2015-04-30 23:04:56:Application Start!
+
+2015/4/30 下午 11:25:56::2015-04-30 23:25:56:Application End!
+
+2015/4/30 下午 11:25:58::2015-04-30 23:25:58:Application Start!
+
+2015/4/30 下午 11:46:58::2015-04-30 23:46:58:Application End!
+
+2015/4/30 下午 11:47:00::2015-04-30 23:47:00:Application Start!
+

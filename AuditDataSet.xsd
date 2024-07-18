@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AuditDataSet" targetNamespace="http://tempuri.org/AuditDataSet.xsd" xmlns:mstns="http://tempuri.org/AuditDataSet.xsd" xmlns="http://tempuri.org/AuditDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ePortalContext" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ePortalContext (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ePortalContext.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AbnormalAnalysisTableAdapter" GeneratorDataComponentClassName="AbnormalAnalysisTableAdapter" Name="AbnormalAnalysis" UserDataComponentName="AbnormalAnalysisTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ePortalContext (Web.config)" DbObjectName="Audit.dbo.AbnormalAnalysis" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Dept_Name, Emp_No, Emp_Name, Abnormal_Desc, Create_By FROM dbo.AbnormalAnalysis</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Dept_Name" DataSetColumn="Dept_Name" />
+              <Mapping SourceColumn="Emp_No" DataSetColumn="Emp_No" />
+              <Mapping SourceColumn="Emp_Name" DataSetColumn="Emp_Name" />
+              <Mapping SourceColumn="Abnormal_Desc" DataSetColumn="Abnormal_Desc" />
+              <Mapping SourceColumn="Create_By" DataSetColumn="Create_By" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AuditDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="AuditDataSet" msprop:Generator_UserDSName="AuditDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AbnormalAnalysis" msprop:Generator_TableClassName="AbnormalAnalysisDataTable" msprop:Generator_TableVarName="tableAbnormalAnalysis" msprop:Generator_TablePropName="AbnormalAnalysis" msprop:Generator_RowDeletingName="AbnormalAnalysisRowDeleting" msprop:Generator_RowChangingName="AbnormalAnalysisRowChanging" msprop:Generator_RowEvHandlerName="AbnormalAnalysisRowChangeEventHandler" msprop:Generator_RowDeletedName="AbnormalAnalysisRowDeleted" msprop:Generator_UserTableName="AbnormalAnalysis" msprop:Generator_RowChangedName="AbnormalAnalysisRowChanged" msprop:Generator_RowEvArgName="AbnormalAnalysisRowChangeEvent" msprop:Generator_RowClassName="AbnormalAnalysisRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Dept_Name" msprop:Generator_ColumnVarNameInTable="columnDept_Name" msprop:Generator_ColumnPropNameInRow="Dept_Name" msprop:Generator_ColumnPropNameInTable="Dept_NameColumn" msprop:Generator_UserColumnName="Dept_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Emp_No" msprop:Generator_ColumnVarNameInTable="columnEmp_No" msprop:Generator_ColumnPropNameInRow="Emp_No" msprop:Generator_ColumnPropNameInTable="Emp_NoColumn" msprop:Generator_UserColumnName="Emp_No" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Emp_Name" msprop:Generator_ColumnVarNameInTable="columnEmp_Name" msprop:Generator_ColumnPropNameInRow="Emp_Name" msprop:Generator_ColumnPropNameInTable="Emp_NameColumn" msprop:Generator_UserColumnName="Emp_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Abnormal_Desc" msprop:Generator_ColumnVarNameInTable="columnAbnormal_Desc" msprop:Generator_ColumnPropNameInRow="Abnormal_Desc" msprop:Generator_ColumnPropNameInTable="Abnormal_DescColumn" msprop:Generator_UserColumnName="Abnormal_Desc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Create_By" msprop:Generator_ColumnVarNameInTable="columnCreate_By" msprop:Generator_ColumnPropNameInRow="Create_By" msprop:Generator_ColumnPropNameInTable="Create_ByColumn" msprop:Generator_UserColumnName="Create_By" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
